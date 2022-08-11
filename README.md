@@ -1,1 +1,1 @@
-# mido-y.github.io
+# sample-lesson1.github.io
